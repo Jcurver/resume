@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-const prefix = process.env.NODE_ENV === "production" ? "https://yeji-j.github.io/test/" : "";
+const prefix = process.env.NODE_ENV === "production" ? "https://jcurver.github.io/resume/" : "";
 
 const nextConfig = {
   output: "export",
